@@ -33,7 +33,7 @@
 
 - 🌱 I’m currently deepening my knowledge in **Full Stack Development** and the **Data Science** field.
 - 👯 I’m open to collaborating on **Open Source Projects**.
-- 👨‍💻 You can find all my projects at **[My Portfolio](https://portfolio-dev-rust.vercel.app/)**.
+- 👨‍💻 You can find all my projects at **[My Portfolio](https://devendranportfolio.web.app/)**.
 - 📫 How to reach me: **devendranvemula@gmail.com**.
 
 ### ⚙️ &nbsp;GitHub Analytics

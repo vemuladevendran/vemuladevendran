@@ -2,7 +2,7 @@
   Hello, I'm <a href="https://portfolio-dev-rust.vercel.app/">Devendran</a> 👋
 </h1>
 
-<h3 align="center">Passionate about Full Stack Development and Data Science</h3>
+<h3 align="center">Passionate Full Stack Developer & Data Scientist</h3>
 
 <p align="center">
   <a href="https://devendranportfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
@@ -12,12 +12,12 @@
 
 ---
 
-### 👨🏻‍💻 &nbsp;About Me
+### 🌟 &nbsp;About Me
 
-- 🌱 Currently exploring and deepening my knowledge in **Full Stack Development** and **Data Science**.
+- 🌱 Currently diving deeper into **Full Stack Development** and **Data Science**.
 - 🤝 Open to collaborating on **Open Source Projects**.
-- 🖥️ Check out my work at **[My Portfolio](https://portfolio-dev-rust.vercel.app/)**.
-- 📧 Reach me at **devendranvemula@gmail.com**.
+- 🌐 Explore my work and contributions at **[My Portfolio](https://portfolio-dev-rust.vercel.app/)**.
+- 📫 Feel free to reach out at **devendranvemula@gmail.com**.
 
 ---
 
@@ -38,11 +38,19 @@
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📊 &nbsp;GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vemuladevendran&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Devendran's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vemuladevendran&layout=compact&langs_count=8&theme=radical" alt="Devendran's Top Languages"/>
+</p>
+
+---
+
+### 🔢 &nbsp;My GitHub Activity
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=vemuladevendran&theme=dracula" alt="Devendran's GitHub Activity"/>
 </p>
 
 ---

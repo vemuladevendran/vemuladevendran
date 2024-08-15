@@ -45,15 +45,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vemuladevendran&layout=compact&langs_count=8&theme=radical" alt="Devendran's Top Languages"/>
 </p>
 
----
-
-### 🔢 &nbsp;My GitHub Activity
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vemuladevendran&theme=dracula" alt="Devendran's GitHub Activity"/>
-</p>
-
----
 
 ### 🌐 &nbsp;Connect with Me
 

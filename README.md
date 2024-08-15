@@ -16,7 +16,7 @@
 
 - 🌱 Currently diving deeper into **Full Stack Development** and **Data Science**.
 - 🤝 Open to collaborating on **Open Source Projects**.
-- 🌐 Explore my work and contributions at **[My Portfolio](https://portfolio-dev-rust.vercel.app/)**.
+- 🌐 Explore my work and contributions at **[My Portfolio](https://devendranportfolio.web.app/)**.
 - 📫 Feel free to reach out at **devendranvemula@gmail.com**.
 
 ---
